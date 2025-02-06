@@ -1,0 +1,8 @@
+*Nama:* Alan/Dhani  
+*Tempat/Tanggal Lahir:* [Jawatengah, Banjarnegara]    
+*Sekolah:* [Smks panca Bhakti rakit]  
+*Kelas:* [TKJ02]  
+*Hobi:* [Coding, oprek barang elektronik, Membaca dokumentasi, nyolder]  
+*Cita-cita:* [Programmer, Ilmuwan]  
+*Keahlian:* JavaScript (Node.js), Mengembangkan bot WhatsApp dengan Baileys  
+*Sistem Operasi yang Digunakan:* Linux Ubuntu
